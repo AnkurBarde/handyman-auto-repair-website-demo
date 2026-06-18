@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Repair bay photo placeholder">
+  <rect width="1200" height="800" fill="#1b2027"/>
+  <g fill="none" stroke="#262c35" stroke-width="2">
+    <path d="M0 200 H1200 M0 400 H1200 M0 600 H1200 M300 0 V800 M600 0 V800 M900 0 V800"/>
+  </g>
+  <rect x="0" y="0" width="24" height="800" fill="#df6c1c"/>
+  <g transform="translate(600 320)" fill="none" stroke="#5b626d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-54" y="-40" width="108" height="80" rx="10"/>
+    <circle cx="0" cy="0" r="20"/>
+    <path d="M-30 -40 l14 -16 h32 l14 16"/>
+  </g>
+  <text x="600" y="430" text-anchor="middle" font-family="Archivo, Arial, sans-serif" font-size="24" letter-spacing="6" fill="#8b929c">PHOTO PLACEHOLDER</text>
+  <text x="600" y="498" text-anchor="middle" font-family="Archivo, Arial, sans-serif" font-weight="800" font-size="58" fill="#ffffff">Repair bay</text>
+</svg>

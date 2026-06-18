@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1200" viewBox="0 0 1000 1200" role="img" aria-label="Owner at work photo placeholder">
+  <rect width="1000" height="1200" fill="#20252e"/>
+  <g fill="none" stroke="#2c323c" stroke-width="2">
+    <path d="M0 300 H1000 M0 600 H1000 M0 900 H1000 M250 0 V1200 M500 0 V1200 M750 0 V1200"/>
+  </g>
+  <rect x="0" y="1176" width="1000" height="24" fill="#df6c1c"/>
+  <g transform="translate(500 500)" fill="none" stroke="#5b626d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-54" y="-40" width="108" height="80" rx="10"/>
+    <circle cx="0" cy="0" r="20"/>
+    <path d="M-30 -40 l14 -16 h32 l14 16"/>
+  </g>
+  <text x="500" y="612" text-anchor="middle" font-family="Archivo, Arial, sans-serif" font-size="24" letter-spacing="6" fill="#8b929c">PHOTO PLACEHOLDER</text>
+  <text x="500" y="678" text-anchor="middle" font-family="Archivo, Arial, sans-serif" font-weight="800" font-size="54" fill="#ffffff">Dai at work</text>
+</svg>

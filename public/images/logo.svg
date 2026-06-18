@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Handyman Auto Repair logo placeholder">
+  <rect width="512" height="512" rx="96" fill="#14161b"/>
+  <g transform="translate(256 256)" fill="none" stroke="#df6c1c" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 -96 a64 64 0 0 0 -86 86 l-86 86 a24 24 0 0 0 34 34 l86 -86 a64 64 0 0 0 86 -86 l-44 30 -38 -10 -10 -38 z"/>
+  </g>
+</svg>
