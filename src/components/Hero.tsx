@@ -15,7 +15,7 @@ export function Hero() {
   return (
     <section
       id="top"
-      className="relative overflow-hidden bg-gradient-to-b from-paper to-mist/50"
+      className="relative overflow-hidden bg-gradient-to-b from-accent/10 via-paper to-mist/50"
     >
       <Container className="grid items-center gap-10 py-14 sm:py-20 lg:grid-cols-12 lg:gap-12 lg:py-24">
         {/* Copy */}
